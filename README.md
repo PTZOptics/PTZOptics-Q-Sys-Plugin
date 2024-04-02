@@ -1,26 +1,25 @@
 # Q-Sys Plugin for PTZOptics Camera Control Via VISCA(TCP)
-PTZOptics Q-SYS Designer Plugin v0-0-0-9
+PTZOptics Q-SYS Designer Plugin v1-0-5-0
 
-Alpha Release 12-12-2023, v0-0-0-9
+Release 04-02-2024, v1-0-5-0
 
 ## About
 This plugin provides controls for PTZOptics cameras including:
 
 Auto-Tracking Enabling, source subject selection,
-Pan, Tilt, Zoom, and Focus (based upon speed parameters) commands,
-Quick Presets commands,
-manual preset entry commands
+Pan, Tilt, Zoom, Focus (based upon speed parameters) commands,
+Quick Presets commands, and manual preset entry commands
 
 ## Contact
 E-mail: dorian.white@haverford.com
 
 ## Copyright
-PTZOptics Q-SYS Designer Plugin is Copyright (C) 2023 Dorian White, Haverford Systems Incorporated
+PTZOptics Q-SYS Designer Plugin is Copyright (C) 2024 Dorian White, Haverford Systems Incorporated
 
 ## License
 The MIT License
 
-Copyright (C) 2023 Haverford Systems Incorporated
+Copyright (C) 2024 Haverford Systems Incorporated
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
