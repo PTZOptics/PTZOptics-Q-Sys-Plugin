@@ -11,7 +11,7 @@ Pan, Tilt, Zoom, Focus (based upon speed parameters) commands,
 Quick Presets commands, and manual preset entry commands
 
 ## Contact
-E-mail: dorian.white@haverford.com
+E-mail: product.team@haverford.com
 
 ## Copyright
 PTZOptics Q-SYS Designer Plugin is Copyright (C) 2024 Dorian White, Haverford Systems Incorporated
