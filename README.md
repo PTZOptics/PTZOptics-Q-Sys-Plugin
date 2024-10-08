@@ -14,7 +14,7 @@ Quick Presets commands, and manual preset entry commands
 E-mail: product.team@haverford.com
 
 ## Copyright
-PTZOptics Q-SYS Designer Plugin is Copyright (C) 2024 Dorian White, Haverford Systems Incorporated
+PTZOptics Q-SYS Designer Plugin is Copyright (C) 2024 Haverford Systems Incorporated
 
 ## License
 The MIT License
